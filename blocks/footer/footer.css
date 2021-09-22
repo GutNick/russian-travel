@@ -1,0 +1,22 @@
+.footer {
+    max-width: 1184px;
+    padding: 92px 48px 24px 48px;
+    margin: auto;
+    display: flex;
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+    .footer {
+        max-width: 930px;
+        padding: 88px 24px 24px 24px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        padding: 64px 16px 24px 16px;
+        flex-direction: column;
+        min-height: 310px;
+        justify-content: space-between;
+    }
+}
