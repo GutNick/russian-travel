@@ -12,4 +12,6 @@
 * БЭМ
 * Figma
 
+[Ссылка на проект](https://andreysdrv.github.io/russian-travel/)
+
 ---
