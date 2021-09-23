@@ -1,0 +1,11 @@
+.lead__frame {
+    max-width: 984px;
+    margin: auto;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__frame {
+        max-width: 912px;
+        box-sizing: border-box;
+    }
+}

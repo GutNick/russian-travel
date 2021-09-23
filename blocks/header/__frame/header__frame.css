@@ -1,0 +1,6 @@
+.header__frame {
+    max-width: 1184px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
