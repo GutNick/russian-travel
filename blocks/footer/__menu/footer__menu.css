@@ -1,8 +1,7 @@
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .footer__menu {
         display: flex;
         flex-direction: column;
-        min-height: 248px;
         justify-content: space-between;
     }
 }
